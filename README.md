@@ -13,3 +13,4 @@ make sure you have a data/db directory in place for mongodb
 install dependencies => npm install
 run redis server locally
 run the app : npm start
+
